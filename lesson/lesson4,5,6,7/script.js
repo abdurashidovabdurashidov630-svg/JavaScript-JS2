@@ -171,3 +171,51 @@
 // console.log(copy1);
 // let copy2 = str.slice(-1)
 // console.log(copy2);
+
+// ———————————————————————————————————————————————————————————————————————————
+// ---------------------------------------------------------------------------
+// ———————————————————————————————————————————————————————————————————————————
+
+// let str = "Salom Yaxshimisiz Bugun Js_ning Str Mavzusi."
+// let arr = str.split(" ")
+// console.log(arr);
+
+// let str3 = "IT";
+// let str = "                  Algoritm                  ";
+// str = str.trim()
+// str = str.trimStart();
+// str = str.trimEnd();
+// let str2 = "Oxford";
+// console.log(str3 + str + str2);
+
+// let str = "algoritm"
+// let str2 = "ALGORITM"
+// console.log(str.toUpperCase());
+// console.log(str2.toLowerCase());
+
+// let text = "salom"
+// console.log(text[0].toUpperCase()+text.slice(1));
+// let text2 = "SALOM"
+// console.log(text2[0].toLowerCase()+text2.slice(1));
+
+// let a = "Salom"
+// let b = "lom"
+// console.log(a.localeCompare(b));
+
+// let c = "Algoritm"
+// let d = "Oxford"
+// console.log(c.localeCompare(d));
+
+// let e = "Salom"
+// let f = "Salom"
+// console.log(e.localeCompare(f));
+
+// let sum = "23- 81 * -2 / 5.9"
+// console.log(eval(sum));
+
+// let data = "Algoritm"
+// console.log(data.charCodeAt(0));
+// console.log(String.fromCharCode(65));
+
+// let code = +`0x1F6${parseInt(Math.random() * 100)}`
+// console.log(String.fromCodePoint(code));

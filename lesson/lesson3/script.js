@@ -18,7 +18,7 @@
 // // 4.
 // console.log(`${num}`);
 
-// let num = 5.
+// let num = 5.3
 // console.log(num.toFixed(0))
 
 // let num = -4.6789
